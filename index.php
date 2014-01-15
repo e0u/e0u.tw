@@ -68,13 +68,6 @@
 
     <div class="container">
 
-      <!-- Main component for a primary marketing message or call to action -->
-      <div class="jumbotron">
-        <h1>Welcome to e0u.tw !</h1>
-        <p></p>
-        <p>
-        </p>
-      </div>
 
     </div> <!-- /container -->
 
