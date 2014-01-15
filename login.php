@@ -44,7 +44,6 @@
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a>會員登入</a></li>
-
             
           </ul>
          
@@ -53,7 +52,15 @@
     </div>
 
     <div class="container">
-
+      <form class="form-signin" role="form">
+        <h2 class="form-signin-heading">會員登入</h2>
+        <input type="text" class="form-control" placeholder="使用者名稱" required autofocus>
+        <input type="password" class="form-control" placeholder="密碼" required>
+        <label class="checkbox">
+          <input type="checkbox" value="remember-me"> 保留登入狀況
+        </label>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+      </form>
 
     </div> <!-- /container -->
 
