@@ -46,14 +46,12 @@
             <li class="active"><a href="#">首頁</a></li>
             <li><a href="#vcoruse">模擬選課</a></li>
             <li><a href="#coruse">課程資訊</a></li>
-            <li><a href="#Devlog">開發日誌</a></li>
 
             
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <li><a href="#About">關於我們</a></li>
-            <li><a href="">Link</a></li>
-            <li><a href="">Link</a></li>
+            <li><a href="#Devlog">開發日誌</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">會員資訊 <b class="caret"></b></a>
               <ul class="dropdown-menu">
@@ -75,7 +73,6 @@
         <h1>Welcome to e0u.tw !</h1>
         <p></p>
         <p>
-          <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">View navbar docs &raquo;</a>
         </p>
       </div>
 
